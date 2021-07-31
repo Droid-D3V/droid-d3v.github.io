@@ -1,4 +1,4 @@
-# DroidWare Builds
-Website and Client page on GitHub.com.
+# DroidWare
 
-New Website coming soon! Oh wait, SO IS DROIDWARE B1! LMFAO.
+DroidWare
+1.12.2 Anarchy Mod
