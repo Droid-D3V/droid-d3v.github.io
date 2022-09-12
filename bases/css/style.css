@@ -20,16 +20,32 @@ a {
     text-decoration: none
 }
 
+a.dgarage {
+    color: cadetblue
+}
+
+a.discords {
+    color: indianred
+}
+
 a.lol1 {
-    color: lightslategrey
+    color: red
 }
 
 a.lol2 {
-    color: lightslategrey
+    color: orangered
 }
 
 a.lol3 {
-    color: lightslategrey
+    color: orange
+}
+
+a.lul1 {
+    color: cornflowerblue
+}
+
+a.lul3 {
+    color: violet
 }
 
 a.songs {
@@ -52,12 +68,40 @@ a.droidium {
     color:#83c9ff;
 }
 
-a.titan {
-    color:rgb(205, 205, 205);
+a.lunarity1 {
+    color: lightgreen;
+}
+
+a.droidium1 {
+    color: orange;
+}
+
+a.drift {
+    color: orange
+}
+
+a.dryfter {
+    color: orange
+}
+
+a.ryno {
+    color: orange
+}
+
+a.skidgod {
+    color: red
+}
+
+a.division {
+    color: red
 }
 
 a.sex {
     color:darkorchid
+}
+
+a.femboys {
+    color: dodgerblue
 }
 
 p.brackets {
@@ -74,4 +118,24 @@ a.in {
 
 a.love {
     color:lightpink;
+}
+
+a.friends {
+    color: paleturquoise
+}
+
+a.projects {
+    color: purple
+}
+
+a.paypal {
+    color: blue
+}
+
+a.sellapp {
+    color: goldenrod
+}
+
+a.email {
+    color: firebrick
 }
